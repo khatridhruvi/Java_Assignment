@@ -7,6 +7,5 @@ package Module_2;
 public class program_40 {
 	public static void main(String[] args) {
 		
-	     
 	   }
 	}
