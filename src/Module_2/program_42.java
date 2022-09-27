@@ -3,7 +3,7 @@
 package Module_2;
 
 import java.util.ArrayList;
-import java.util.Iterator;
+
 
 public class program_42 {
 	public static void main(String[] args) {
