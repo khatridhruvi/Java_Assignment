@@ -28,4 +28,3 @@ public class program_41 {
 		  System.out.println("4th index element is: "+ele);
 	   }
 	}
-
